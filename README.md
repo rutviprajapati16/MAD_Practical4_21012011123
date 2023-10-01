@@ -22,7 +22,8 @@ Add Activity in android Project.
 
 ![image](https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/2afe86f6-760a-444e-bef0-2ad58a8684bc)
 
-![image](https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/b54e1c8a-059b-4e6a-bb9a-fa629a7b881e)
+![image](https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/9e13f202-ec03-452e-9f1d-1133932247b6)
+
 
 
 
