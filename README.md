@@ -26,11 +26,14 @@ Add Activity in android Project.
 **Dark Theme:**
 
 
-![image](https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/41be316d-6472-409e-a251-1c5f2f6f7ea8)
+<img src="https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/8a74e6ec-b588-44c6-8606-55cde0ce01f5" height="500" width="300">
 
-![image](https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/2afe86f6-760a-444e-bef0-2ad58a8684bc)
 
-![image](https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/9e13f202-ec03-452e-9f1d-1133932247b6)
+<img src="https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/59460bd9-c178-4a17-8ca4-45bfbfa24b82" height="500" width="300">
+
+
+<img src="https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/27ec71b8-88a0-4aab-8392-af3a38e8e109" height="500" width="300">
+
 
 
 
