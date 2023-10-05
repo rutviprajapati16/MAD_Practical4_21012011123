@@ -1,4 +1,4 @@
-![image](https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/72ac58cf-f09f-4fee-95d6-91592c214f2f)**Practical-4:**
+**Practical-4:**
 
 
 **Study:** Resource, Theme, Color, Layout, Explicit Intent, Gradle File structure.
@@ -14,13 +14,13 @@ Add Activity in android Project.
 **Light Theme:**
 
 
-<img src="https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/b231021e-b3cb-4ac2-a787-8138b58aa0b9 height="500" width="400">
+<img src="https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/b231021e-b3cb-4ac2-a787-8138b58aa0b9" height="500" width="400">
 
 
-<img src="https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/b9a033bc-5212-4253-a2b1-65c04dae59da height="500" width="400">
+<img src="https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/b9a033bc-5212-4253-a2b1-65c04dae59da" height="500" width="400">
 
 
-<img src="https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/74a03015-98f0-4c83-82ce-d61b03aa8a67 height="500" width="400">
+<img src="https://github.com/rutviprajapati16/MAD_Practical4_21012011123/assets/97946004/74a03015-98f0-4c83-82ce-d61b03aa8a67" height="500" width="400">
 
 
 **Dark Theme:**
